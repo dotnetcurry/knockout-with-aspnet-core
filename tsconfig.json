@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "es5",
+    "sourceMap": true,
+    "skipDefaultLibCheck": true,
+    "types": ["es6-promise", "history", "requirejs"]
+  },
+  "exclude": [
+      "bin",
+      "node_modules"
+  ]
+}

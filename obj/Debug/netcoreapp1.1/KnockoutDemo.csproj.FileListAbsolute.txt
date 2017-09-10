@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\bin\Debug\netcoreapp1.1\KnockoutDemo.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\bin\Debug\netcoreapp1.1\KnockoutDemo.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\bin\Debug\netcoreapp1.1\KnockoutDemo.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\bin\Debug\netcoreapp1.1\KnockoutDemo.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\bin\Debug\netcoreapp1.1\KnockoutDemo.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\obj\Debug\netcoreapp1.1\KnockoutDemo.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\obj\Debug\netcoreapp1.1\KnockoutDemo.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\obj\Debug\netcoreapp1.1\KnockoutDemo.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\KnockoutDemo\obj\Debug\netcoreapp1.1\KnockoutDemo.pdb
